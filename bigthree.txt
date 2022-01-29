@@ -1,0 +1,28 @@
+run
+start
+n
+n
+step
+l
+list
+start
+l
+i b
+b 4
+b 8
+b 9
+i b
+delete 3
+i b
+i b
+set history filename bigthree.txt
+set history save on
+start
+r
+n
+r
+l
+i b
+delete 5
+i b
+q
